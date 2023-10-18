@@ -1,0 +1,17 @@
+Employee_Ssn,Employee_Fname,Employee_LMame,Manager_Ssn,Manager_Fname,Manager_Lmame
+101010101,Charlotte,Harris,123456789,John,Smith
+131313131,Mia,Wright,555666777,George,Harris
+161616161,Liam,Anderson,123456789,John,Smith
+181818181,Oliver,Johnson,555666777,George,Harris
+191919191,Amelia,Taylor,123456789,John,Smith
+202020202,Harper,Brown,333222111,Grace,Clark
+232323232,Mason,Clark,777888999,David,Brown
+333222111,Grace,Clark,777888999,David,Brown
+444444444,Sophia,Brown,555666777,George,Harris
+444555666,Emily,Jones,111222333,Bob,Wilson
+456789123,Alice,Johnson,123456789,John,Smith
+555666777,George,Harris,123456789,John,Smith
+666666666,Olivia,Davis,123456789,John,Smith
+888888888,Ava,Taylor,333222111,Grace,Clark
+987654321,Jane,Doe,123456789,John,Smith
+999888777,Ella,Lee,444555666,Emily,Jones
