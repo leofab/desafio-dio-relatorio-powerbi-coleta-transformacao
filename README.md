@@ -42,6 +42,7 @@ Neste projeto, descrevemos o processo de carregamento de dados do MySQL para o P
        employee e2 ON e1.Super_ssn = e2.Ssn
    WHERE
        e1.Super_ssn IS NOT NULL;
+   ```
 
 ### 9.  **Nova Mesclagem de Nomes**:
    - Após a mescla com os gerentes, outra mesclagem de nomes foi realizada.
@@ -64,3 +65,4 @@ ON
     e.Ssn = w.Essn
 WHERE
     w.Pno IS NOT NULL;
+```
